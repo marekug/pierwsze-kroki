@@ -6,10 +6,9 @@ takie tam na pierwszy wykład
 * cośtam
 
 1. a
-a
-s
-d
-gf
-g
+
+tt  | ggg | jjj
+---------------
+ttt | ggg | jjj
 
 
