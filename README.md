@@ -7,8 +7,9 @@ takie tam na pierwszy wykład
 
 1. a
 
-tt  | ggg | jjj
-
-ttt | ggg | jjj
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
