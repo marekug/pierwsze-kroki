@@ -8,6 +8,7 @@ takie tam na pierwszy wykład
 1. a
 
 tt  | ggg | jjj
+
 ttt | ggg | jjj
 
 
