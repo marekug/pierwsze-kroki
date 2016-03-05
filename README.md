@@ -6,5 +6,10 @@ takie tam na pierwszy wykład
 * cośtam
 
 1. a
-1. b
-1. c
+a
+s
+d
+gf
+g
+
+
