@@ -1,4 +1,4 @@
-# pierwsze-kroki
+# pierwsze-krokizmiana
 takie tam na pierwszy wykład
 
 ##okej zaczynamy
